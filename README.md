@@ -1,3 +1,4 @@
+<!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Revan</h1>
 <h3 align="center">Backend Developer | Game Developer | SA-MP Engineer</h3>
 
@@ -7,74 +8,53 @@
 
 ---
 
-# 🚀 Core Programming Languages
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="60"/>
-  <img src="https://skillicons.dev/icons?i=php" height="60"/>
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+
+![C++](https://img.shields.io/badge/C++-38BDF8?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-38BDF8?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-38BDF8?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-38BDF8?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-38BDF8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-38BDF8?style=for-the-badge&logo=javascript&logoColor=white)
+
+<br>
+
+![Pawn](https://img.shields.io/badge/Pawn-SA--MP%20Developer-38BDF8?style=for-the-badge&logo=c&logoColor=white)
+
+<br>
+
+![VS Code](https://img.shields.io/badge/VS%20Code-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white)
+
 </p>
 
 ---
 
-# 🌐 Web Development
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60"/>
-  <img src="https://skillicons.dev/icons?i=css" height="60"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ravs-Dev&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ravs-Dev&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="165"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravs-Dev&theme=tokyonight&hide_border=true&layout=compact&title_color=38BDF8"/>
 </p>
 
 ---
 
-# 🗄 Database
+# 👀 Profile Views
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-</p>
-
----
-
-# 🎮 SA-MP Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pawn-SA--MP%20Developer-38BDF8?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
----
-
-# 🛠 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-  <img src="https://skillicons.dev/icons?i=github" height="60"/>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&border_color=38BDF8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&title_color=38BDF8&border_color=38BDF8"/>
-</p>
-
----
-
-# 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&color=38BDF8&line=38BDF8&point=38BDF8"/>
-</p>
-
----
-
-# 🌌 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
+  <img src="https://visitcount.itsvg.in/api?id=Ravs-Dev&icon=5&color=12" />
 </p>
