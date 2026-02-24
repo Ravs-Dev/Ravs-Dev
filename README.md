@@ -2,7 +2,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #000000, #0f172a, #0ea5e9); padding: 30px; border-radius: 15px;">
 
-<h1 style="color:white;">Hi 👋 I'm Revan</h1>
+<h1 style="color:white;">Hi 👋 I'm RAVS</h1>
 <h3 style="color:#38BDF8;">Backend Developer | Game Developer | SA-MP Engineer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;C%23+Developer;PHP+Developer;Python+Developer;SA-MP+Pawn+Engineer" />
