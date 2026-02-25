@@ -22,7 +22,7 @@
 <li>👯 Open to collaborate on game & web projects</li>
 <li>🤝 Looking for help in scalable architecture</li>
 <li>🌱 Learning advanced backend & system optimization</li>
-<li>💬 Ask me about Pawn, SA-MP, Web Development</li>
+<li>🎮 Ask me about Pawn, SA-MP, Web Development</li>
 <li>⚡ Fun fact: I turn coffee into code ☕</li>
 </ul>
 
