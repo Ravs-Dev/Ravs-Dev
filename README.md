@@ -18,7 +18,7 @@
 <h2 style="color:#38BDF8;">💫 About Me</h2>
 
 <ul style="color:white;">
-<li>🔭 Currently working on Jamatra Prime Roleplay & backend systems</li>
+<li>🔭 Currently working on Stars Roleplay & backend systems</li>
 <li>👯 Open to collaborate on game & web projects</li>
 <li>🤝 Looking for help in scalable architecture</li>
 <li>🌱 Learning advanced backend & system optimization</li>
