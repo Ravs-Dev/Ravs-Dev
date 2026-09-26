@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<h3 style="color:white;">⚙️ Backend & Database</h3>
+<h3 style="color:white;">️ Backend & Database</h3>
 <p>
 <img src="https://img.shields.io/badge/MySQL-38BDF8?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-38BDF8?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -98,7 +98,7 @@
 
 <br>
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS - COMPREHENSIVE -->
 <div style="background: linear-gradient(135deg, #000000, #0f172a); padding: 25px; border-radius: 15px;">
 
 <h2 style="color:#38BDF8;">📊 GitHub Stats</h2>
@@ -108,11 +108,24 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravs-Dev&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravs-Dev&theme=tokyonight&hide_border=true&layout=donut&title_color=38BDF8&bg_color=0f172a"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravs-Dev&theme=tokyonight&hide_border=true&layout=donut&title_color=38BDF8&bg_color=0f172a"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravs-Dev&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+</p>
+
+</div>
+
+<br>
+
+<!-- DETAILED ACTIVITY STATS -->
+<div style="background: linear-gradient(135deg, #0f172a, #000000); padding: 25px; border-radius: 15px;">
+
+<h2 style="color:#38BDF8;">📈 Detailed Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravs-Dev&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38BDF8&line=38BDF8&point=ffffff&area=true"/>
 </p>
 
 </div>
@@ -120,25 +133,12 @@
 <br>
 
 <!-- TROPHIES -->
-<div style="background: linear-gradient(135deg, #0f172a, #000000); padding: 25px; border-radius: 15px;">
+<div style="background: linear-gradient(135deg, #000000, #0f172a); padding: 25px; border-radius: 15px;">
 
 <h2 style="color:#38BDF8;">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ravs-Dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-</div>
-
-<br>
-
-<!-- ACTIVITY GRAPH -->
-<div style="background: linear-gradient(135deg, #000000, #0f172a); padding: 25px; border-radius: 15px;">
-
-<h2 style="color:#38BDF8;">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravs-Dev&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38BDF8&line=38BDF8&point=ffffff&area=true"/>
 </p>
 
 </div>
