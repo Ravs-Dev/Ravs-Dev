@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php,lua" />
 
 <br><br>
 
