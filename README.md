@@ -468,7 +468,7 @@ RAVS DEVELOPMENT NETWORK
 
 <div align="center">
 
-<img src="./assets/system-online.gif" width="720" alt="Ravs-Dev System Status"/>
+<img src="./assets/system-online.gif" width="720"/>
 
 </div>
 
