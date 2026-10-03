@@ -480,7 +480,7 @@ RAVS DEVELOPMENT NETWORK
 
 <div align="center">
 
-<img src="./Ravs/assets/system-online.gif" width="720"/>
+<img src=".https://github.com/Ravs-Dev/Ravs/assets/system-online.gif" width="720"/>
 
 </div>
 
