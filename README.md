@@ -79,6 +79,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-Scripting-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/PAWN-SA--MP%20%2F%20open.mp-2563EB?style=for-the-badge&logo=c&logoColor=white"/>
 
 </div>
