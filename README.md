@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:2563eb&text=RAVS%20DEV&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Backend%20Developer%20%7C%20Game%20Developer%20%7C%20SA-MP%20%2F%20open.mp&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Game+Systems+%26+Backend+Architecture;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+JavaScript;SA-MP+%2F+open.mp+Developer;Web+%26+Android+Development;Always+Learning+%E2%80%A2+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Game+Systems+%26+Backend+Architecture;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+JavaScript;SA-MP+%2F+Open.Mp+Developer;;Fivem+Developer;Web+%26+Android+Development;Always+Learning+%E2%80%A2+Always+Building" />
 
 <br>
 
@@ -26,15 +26,17 @@
 │   ROLES                                                      │
 │   ├─ [01] Backend Developer                                  │
 │   ├─ [02] Game Developer                                     │
-│   ├─ [03] SA-MP / open.mp Developer                          │
-│   ├─ [04] Web Developer                                      │
-│   └─ [05] Android Developer                                  │
+│   ├─ [03] SA-MP / open.mp Developer                          |
+|   ├─ [04] Fivem Developer                                    │
+│   ├─ [05] Web Developer                                      │
+│   └─ [06] Android Developer                                  │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │   CURRENT FOCUS                                              │
 │   ├─ Multiplayer Roleplay Systems                            │
 │   ├─ SA-MP / open.mp Gamemode Development                    │
+|   ├─ Fivem Server Development                                |
 │   ├─ Backend & Database Systems                              │
 │   ├─ Android Game Client Development                         │
 │   ├─ Web Applications                                        │
