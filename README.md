@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:2563eb&text=RAVS%20DEV&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Backend%20Developer%20%7C%20Game%20Developer%20%7C%20SA-MP%20%2F%20open.mp&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Game+Systems+%26+Backend+Architecture;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+JavaScript;SA-MP+%2F+Open.Mp+Developer;;Fivem+Developer;Web+%26+Android+Development;Always+Learning+%E2%80%A2+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Game+Systems+%26+Backend+Architecture;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+JavaScript+%7C+Lua;SA-MP+%2F+open.mp+Developer;FiveM+Developer;Web+%26+Android+Development;Always+Learning+%E2%80%A2+Always+Building" />
 
 <br>
 
@@ -204,6 +204,7 @@
 │   C          ███████████████░░░░░   SYSTEM DEVELOPMENT       │
 │   C++        ███████████████░░░░░   APPLICATION DEVELOPMENT  │
 │   PAWN       ████████████████████   SA-MP / open.mp          │
+|   Fivem      ███████████████░░░░░   Fivem                    |
 │   Python     █████████████░░░░░░░   SCRIPTING / BACKEND      │
 │   Java       █████████████░░░░░░░   ANDROID DEVELOPMENT      │
 │   JavaScript ███████████████░░░░░   WEB / BACKEND            │
@@ -220,6 +221,10 @@
 RAVS@github:~$ systemctl status development
 
 ● gamemode-openmp.service
+   ├─ Status  : ACTIVE
+   └─ Building multiplayer roleplay systems
+
+● server-fivem.service
    ├─ Status  : ACTIVE
    └─ Building multiplayer roleplay systems
 
@@ -273,6 +278,7 @@ RAVS DEVELOPMENT NETWORK
 │   ├── C
 │   ├── C++
 │   ├── PAWN
+|   ├── Lua
 │   ├── Python
 │   ├── Java
 │   ├── JavaScript
@@ -281,6 +287,7 @@ RAVS DEVELOPMENT NETWORK
 ├── GAME SYSTEMS
 │   ├── SA-MP
 │   ├── open.mp
+|   ├── Fivem
 │   ├── Roleplay Gamemode
 │   ├── Account Systems
 │   ├── Player Systems
@@ -398,8 +405,8 @@ RAVS DEVELOPMENT NETWORK
         │ GAME SERVER │    │   BACKEND   │    │    WEB      │
         └──────┬──────┘    └──────┬──────┘    └──────┬──────┘
                │                  │                  │
-          PAWN/open.mp         Node.js             HTML
-          SA-MP Systems          PHP                CSS
+          PAWN/open.mp         Node.js              HTML
+             Fivem               PHP                CSS
           RP Systems           Python           JavaScript
                │                  │                  │
                └───────────┬──────┴───────┬──────────┘
@@ -423,6 +430,7 @@ RAVS DEVELOPMENT NETWORK
 ║  > Backend Developer                                               ║
 ║  > Game Developer                                                  ║
 ║  > SA-MP / open.mp Developer                                       ║
+║  > Fivem Developer                                                 ║
 ║  > Web Developer                                                   ║
 ║  > Android Developer                                               ║
 ║                                                                    ║
@@ -430,6 +438,7 @@ RAVS DEVELOPMENT NETWORK
 ║                                                                    ║
 ║  > C                                                               ║
 ║  > C++                                                             ║
+║  > Lua                                                             ║
 ║  > PAWN                                                            ║
 ║  > Python                                                          ║
 ║  > Java                                                            ║
@@ -483,6 +492,7 @@ RAVS DEVELOPMENT NETWORK
 [ ACTIVE ]
 
 [✓] SA-MP / open.mp Gamemode Development
+[✓] Fivem Server Development
 [✓] MySQL Database Integration
 [✓] Backend Development
 [✓] Android Client Development
@@ -502,6 +512,7 @@ RAVS DEVELOPMENT NETWORK
 
 [ ] Advanced Backend Architecture
 [ ] More C / C++ Projects
+[ ] More Lua Project
 [ ] More Python Projects
 [ ] Web Dashboard Systems
 [ ] Game Server Management
