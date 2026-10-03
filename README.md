@@ -8,7 +8,7 @@
 
 ---
 
-### `⟨ SYSTEM PROFILE :: IDENTITY CORE ⟩`
+## `⟨ SYSTEM PROFILE :: IDENTITY CORE ⟩`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -44,9 +44,9 @@
 
 ---
 
-### `⟨ TECHNOLOGY ARSENAL :: DEVELOPMENT STACK ⟩`
+## `⟨ TECHNOLOGY ARSENAL :: DEVELOPMENT STACK ⟩`
 
-#### `◈ GAME DEVELOPMENT`
+### `◈ GAME DEVELOPMENT`
 
 <p>
 <img src="https://img.shields.io/badge/PAWN-SA--MP%20%2F%20open.mp-2563EB?style=for-the-badge&logo=c&logoColor=white"/>
@@ -54,25 +54,25 @@
 <img src="https://img.shields.io/badge/SA--MP-Game%20Development-0F172A?style=for-the-badge"/>
 </p>
 
-#### `◈ WEB DEVELOPMENT`
+### `◈ WEB DEVELOPMENT`
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php"/>
 </p>
 
-#### `◈ BACKEND & DATABASE`
+### `◈ BACKEND & DATABASE`
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
 </p>
 
-#### `◈ MOBILE DEVELOPMENT`
+### `◈ MOBILE DEVELOPMENT`
 
 <p>
 <img src="https://skillicons.dev/icons?i=androidstudio,java"/>
 </p>
 
-#### `◈ DEVELOPMENT TOOLS`
+### `◈ DEVELOPMENT TOOLS`
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux"/>
@@ -80,7 +80,7 @@
 
 ---
 
-### `⟨ ACTIVE DEVELOPMENT :: CURRENT SYSTEMS ⟩`
+## `⟨ ACTIVE DEVELOPMENT :: CURRENT SYSTEMS ⟩`
 
 ```text
 RAVS@github:~$ systemctl status development
@@ -102,7 +102,7 @@ STATUS: ALL DEVELOPMENT SYSTEMS OPERATIONAL
 
 ---
 
-### `⟨ PROJECT MATRIX :: ACTIVE PROJECTS ⟩`
+## `⟨ PROJECT MATRIX :: ACTIVE PROJECTS ⟩`
 
 <div align="center">
 
@@ -122,7 +122,7 @@ STATUS: ALL DEVELOPMENT SYSTEMS OPERATIONAL
 
 ---
 
-### `⟨ DATA CORE :: GITHUB ANALYTICS ⟩`
+## `⟨ DATA CORE :: GITHUB ANALYTICS ⟩`
 
 <div align="center">
 
@@ -140,7 +140,7 @@ STATUS: ALL DEVELOPMENT SYSTEMS OPERATIONAL
 
 ---
 
-### `⟨ ACTIVITY MATRIX :: CONTRIBUTION GRAPH ⟩`
+## `⟨ ACTIVITY MATRIX :: CONTRIBUTION GRAPH ⟩`
 
 <div align="center">
 
@@ -150,7 +150,7 @@ STATUS: ALL DEVELOPMENT SYSTEMS OPERATIONAL
 
 ---
 
-### `⟨ GRID TRAVERSAL :: CONTRIBUTION SNAKE ⟩`
+## `⟨ GRID TRAVERSAL :: CONTRIBUTION SNAKE ⟩`
 
 <div align="center">
 
@@ -160,7 +160,7 @@ STATUS: ALL DEVELOPMENT SYSTEMS OPERATIONAL
 
 ---
 
-### `⟨ GITHUB TROPHY CORE :: ACHIEVEMENTS ⟩`
+## `⟨ GITHUB TROPHY CORE :: ACHIEVEMENTS ⟩`
 
 <div align="center">
 
@@ -170,7 +170,7 @@ STATUS: ALL DEVELOPMENT SYSTEMS OPERATIONAL
 
 ---
 
-### `⟨ DEVELOPMENT NETWORK :: SPECIALIZATION ⟩`
+## `⟨ DEVELOPMENT NETWORK :: SPECIALIZATION ⟩`
 
 ```text
 GAME SYSTEMS
@@ -204,9 +204,9 @@ MOBILE
 
 ---
 
-### `⟨ SYSTEM TERMINAL :: COMMAND LINE ⟩`
+## `⟨ SYSTEM TERMINAL :: COMMAND LINE ⟩`
 
-```bash
+```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║  ravs@github:~$ whoami                                           ║
@@ -227,21 +227,24 @@ MOBILE
 ║  > Tugas-Kampus/                                                 ║
 ║  > Web-Projects/                                                 ║
 ║                                                                  ║
-║  ravs@github:~$ ./developer --status                             ║
-║                                                                  ║
-║  > [████████████████████████████████████] 100% ONLINE            ║
-║                                                                  ║
-║  > System ready.                                                 ║
-║  > Keep building.                                                ║
-║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
+## `⟨ SYSTEM STATUS :: LIVE BOOT SEQUENCE ⟩`
+
 <div align="center">
 
-### `⟨ CONNECTION ESTABLISHED ⟩`
+<img src="./assets/system-online.svg" width="720"/>
+
+</div>
+
+---
+
+## `⟨ CONNECTION ESTABLISHED ⟩`
+
+<div align="center">
 
 <a href="https://github.com/Ravs-Dev">
 <img src="https://img.shields.io/badge/GitHub-Ravs--Dev-181717?style=for-the-badge&logo=github"/>
