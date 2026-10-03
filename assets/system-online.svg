@@ -1,0 +1,243 @@
+<svg width="720" height="150" viewBox="0 0 720 150"
+xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+        <linearGradient id="progressGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#1d4ed8"/>
+            <stop offset="50%" stop-color="#3b82f6"/>
+            <stop offset="100%" stop-color="#60a5fa"/>
+        </linearGradient>
+
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+
+    <rect
+        width="720"
+        height="150"
+        rx="12"
+        fill="#020617"
+        stroke="#1e3a8a"
+        stroke-width="2"
+    />
+
+    <text
+        x="30"
+        y="35"
+        fill="#3b82f6"
+        font-size="17"
+        font-family="monospace">
+        RAVS@github:~$ ./developer --status
+    </text>
+
+    <text
+        x="30"
+        y="62"
+        fill="#94a3b8"
+        font-size="13"
+        font-family="monospace">
+        Initializing development environment...
+    </text>
+
+    <rect
+        x="30"
+        y="78"
+        width="560"
+        height="24"
+        rx="5"
+        fill="#0f172a"
+        stroke="#2563eb"
+        stroke-width="2"
+    />
+
+    <rect
+        x="33"
+        y="81"
+        width="0"
+        height="18"
+        rx="3"
+        fill="url(#progressGradient)"
+        filter="url(#glow)">
+
+        <animate
+            attributeName="width"
+            values="
+            0;
+            28;
+            56;
+            84;
+            112;
+            140;
+            168;
+            196;
+            224;
+            252;
+            280;
+            308;
+            336;
+            364;
+            392;
+            420;
+            448;
+            476;
+            504;
+            530;
+            554;
+            554"
+            keyTimes="
+            0;
+            .05;
+            .10;
+            .15;
+            .20;
+            .25;
+            .30;
+            .35;
+            .40;
+            .45;
+            .50;
+            .55;
+            .60;
+            .65;
+            .70;
+            .75;
+            .80;
+            .85;
+            .90;
+            .94;
+            .97;
+            1"
+            dur="4s"
+            repeatCount="indefinite"
+        />
+
+    </rect>
+
+    <text
+        x="615"
+        y="96"
+        fill="#ffffff"
+        font-size="16"
+        font-family="monospace">
+
+        <tspan opacity="1">
+            0%
+
+            <animate
+                attributeName="opacity"
+                values="1;0;0;0;0"
+                keyTimes="0;.10;.20;.95;1"
+                dur="4s"
+                repeatCount="indefinite"
+            />
+
+        </tspan>
+
+    </text>
+
+    <text
+        x="610"
+        y="96"
+        fill="#ffffff"
+        font-size="16"
+        font-family="monospace"
+        opacity="0">
+
+        25%
+
+        <animate
+            attributeName="opacity"
+            values="0;1;0;0;0"
+            keyTimes="0;.25;.35;.95;1"
+            dur="4s"
+            repeatCount="indefinite"
+        />
+
+    </text>
+
+    <text
+        x="610"
+        y="96"
+        fill="#ffffff"
+        font-size="16"
+        font-family="monospace"
+        opacity="0">
+
+        50%
+
+        <animate
+            attributeName="opacity"
+            values="0;0;1;0;0"
+            keyTimes="0;.40;.50;.60;1"
+            dur="4s"
+            repeatCount="indefinite"
+        />
+
+    </text>
+
+    <text
+        x="610"
+        y="96"
+        fill="#ffffff"
+        font-size="16"
+        font-family="monospace"
+        opacity="0">
+
+        75%
+
+        <animate
+            attributeName="opacity"
+            values="0;0;1;0;0"
+            keyTimes="0;.65;.75;.85;1"
+            dur="4s"
+            repeatCount="indefinite"
+        />
+
+    </text>
+
+    <text
+        x="600"
+        y="96"
+        fill="#22c55e"
+        font-size="16"
+        font-weight="bold"
+        font-family="monospace"
+        opacity="0">
+
+        100%
+
+        <animate
+            attributeName="opacity"
+            values="0;0;0;1;1"
+            keyTimes="0;.85;.94;.97;1"
+            dur="4s"
+            repeatCount="indefinite"
+        />
+
+    </text>
+
+    <text
+        x="30"
+        y="130"
+        fill="#22c55e"
+        font-size="15"
+        font-family="monospace"
+        filter="url(#glow)">
+
+        [ SYSTEM ONLINE ]
+
+        <animate
+            attributeName="opacity"
+            values="0.45;1;0.45"
+            dur="1.5s"
+            repeatCount="indefinite"
+        />
+
+    </text>
+
+</svg>
