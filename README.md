@@ -271,6 +271,8 @@ Programming-learning web project containing coding examples and developer-orient
 
 # `⟨ DEVELOPMENT STATUS :: CURRENT FOCUS ⟩`
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CODE+IN+PROGRESS+%5D;%5B+BUILDING+THE+FUTURE+%5D" alt="System online"/>
+
 ```text
 RAVS@github:~$ status
 
@@ -322,8 +324,6 @@ RAVS@github:~$ status
 <img src="https://img.shields.io/badge/AVAILABLE-FOR%20PROJECTS-22C55E?style=for-the-badge"/>
 
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CODE+IN+PROGRESS+%5D;%5B+BUILDING+THE+FUTURE+%5D" alt="System online"/>
 
 <br>
 
