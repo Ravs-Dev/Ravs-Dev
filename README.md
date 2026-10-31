@@ -267,6 +267,10 @@ Programming learning web project with coding examples and a developer-oriented i
 
 ### 🎮 Collect the coins. Reach the portal.
 
+<img src="./assets/game-preview.svg" width="100%" alt="Ravs Dev Game Lab Preview"/>
+
+<br>
+
 <a href="https://ravs-dev.github.io/Ravs-Dev/game/"><img src="https://img.shields.io/badge/▶%20PLAY%20GAME-RAVS%20DEV%20GAME%20LAB-22D3EE?style=for-the-badge&logo=gamejolt&logoColor=00111F"/></a>
 <a href="./game/index.html"><img src="https://img.shields.io/badge/VIEW-GAME%20SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a>
 
