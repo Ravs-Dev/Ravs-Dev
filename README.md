@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="220" alt="Ravs Dev Profile"/>
+<img src="./assets/profile.png" width="220" alt="Ravs Dev Profile"/>
 
 # `RAVS DEV`
 
