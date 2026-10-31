@@ -261,151 +261,157 @@ Programming learning web project with coding examples and a developer-oriented i
 
 ---
 
-# `⟨ GAME LAB :: README PLAY MODE ⟩`
+# `⟨ GAME LAB :: PLAYABLE PROFILE GAME ⟩`
 
 <div align="center">
 
-### 🎮 RAVS DEV — PORTAL RUN
+## 🎮 RAVS DEV — PORTAL RUN
 
-`Goal: collect the 3 coins, then choose the correct final move to reach the portal.`
+<img src="./assets/game-preview.svg" width="100%" alt="Ravs Dev Game Lab Preview"/>
+
+<br><br>
+
+`MISSION: Collect 3 coins → unlock portal → finish the level`
+
+<br>
+
+<img src="https://img.shields.io/badge/GAME-READY-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCORE-0000-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEVEL-01-2563EB?style=for-the-badge"/>
 
 </div>
 
-> This version runs **inside the GitHub profile README** using GitHub-supported expandable controls. No external page is required.
-
 ---
 
-<details>
+<details open>
 <summary><b>▶ START GAME</b></summary>
 
 <br>
 
 ```text
-RAVS DEV GAME LAB
-
-❤️ ❤️ ❤️                          SCORE: 0000
-
-   PLAYER
-     ▣
-
-═══════     🪙        ═══════     🪙       ═══════     🪙    🌀
- START                                                        PORTAL
-
-MISSION:
-Collect all 3 coins and reach the portal.
+╭──────────────────────────────────────────────────────────────────╮
+│ RAVS DEV GAME LAB                                   SCORE: 0000 │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│   PLAYER                                                         │
+│     ▣                                                            │
+│                                                                  │
+│ ═══════      🪙        ═══════      🪙       ═══════      🪙   🌀 │
+│  START                                                PORTAL      │
+│                                                                  │
+│ OBJECTIVE: Collect all coins, then enter the portal.              │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
-### CONTROL 01
+### 🎮 CONTROLS
 
 <details>
-<summary>➡️ MOVE RIGHT</summary>
+<summary><b>⬅️ MOVE LEFT</b></summary>
 
 ```text
-❤️ ❤️ ❤️                          SCORE: 0100
+PLAYER moved left.
 
-             PLAYER
-               ▣
-═══════     [✓]        ═══════     🪙       ═══════     🪙    🌀
-            COIN 1
+Nothing found here.
 
-✓ Coin 1 collected.
+Hint:
+The first coin is on the RIGHT.
 ```
 
-### CONTROL 02
+</details>
 
 <details>
-<summary>⬆️ JUMP TO PLATFORM</summary>
+<summary><b>➡️ MOVE RIGHT — COLLECT COIN 1</b></summary>
 
 ```text
-❤️ ❤️ ❤️                          SCORE: 0200
+╭────────────────────────────────────────────────────────────╮
+│ SCORE: 0100                                                │
+│                                                            │
+│            PLAYER                                          │
+│              ▣                                             │
+│ ═══════     [✓]       ═══════      🪙      ═══════    🪙 🌀 │
+│             COIN 1                                         │
+╰────────────────────────────────────────────────────────────╯
 
-                            PLAYER
-                              ▣
-═══════     [✓]        ═══════    [✓]       ═══════     🪙    🌀
-                                  COIN 2
-
-✓ Coin 2 collected.
+✓ COIN 1 COLLECTED
 ```
 
-### CONTROL 03
+### NEXT MOVE
 
 <details>
-<summary>➡️ RUN RIGHT</summary>
+<summary><b>⬆️ JUMP — COLLECT COIN 2</b></summary>
 
 ```text
-❤️ ❤️ ❤️                          SCORE: 0300
+╭────────────────────────────────────────────────────────────╮
+│ SCORE: 0200                                                │
+│                                                            │
+│                         PLAYER                             │
+│                           ▣                                │
+│ ═══════     [✓]       ═══════     [✓]      ═══════    🪙 🌀 │
+│                                  COIN 2                    │
+╰────────────────────────────────────────────────────────────╯
 
-                                               PLAYER
-                                                 ▣
-═══════     [✓]        ═══════    [✓]       ═══════    [✓]    🌀
-                                                        COIN 3
-
-✓ All coins collected.
-⚡ Portal unlocked.
+✓ COIN 2 COLLECTED
 ```
 
-### FINAL CONTROL
+### NEXT MOVE
 
 <details>
-<summary>🌀 ENTER PORTAL</summary>
+<summary><b>➡️ RUN RIGHT — COLLECT COIN 3</b></summary>
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║                MISSION COMPLETE                      ║
-║                                                      ║
-║                   SCORE: 0800                        ║
-║                                                      ║
-║           RAVS DEV • GAME LAB ONLINE                 ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╭────────────────────────────────────────────────────────────╮
+│ SCORE: 0300                                                │
+│                                                            │
+│                                           PLAYER           │
+│                                             ▣              │
+│ ═══════     [✓]       ═══════     [✓]      ═══════   [✓] 🌀 │
+│                                                     COIN 3 │
+╰────────────────────────────────────────────────────────────╯
+
+✓ COIN 3 COLLECTED
+⚡ PORTAL UNLOCKED
 ```
 
-**🏆 YOU WIN — Portal reached successfully.**
+### FINAL MOVE
+
+<details>
+<summary><b>🌀 ENTER PORTAL</b></summary>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                 MISSION COMPLETE                         ║
+║                                                          ║
+║                   SCORE: 0800                            ║
+║                                                          ║
+║              RAVS DEV GAME LAB                           ║
+║                                                          ║
+║                   YOU WIN!                               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+🏆 **LEVEL COMPLETED**
 
 </details>
 
 </details>
 
 <details>
-<summary>⬅️ GO BACK</summary>
+<summary><b>⬇️ DROP DOWN</b></summary>
 
 ```text
-Wrong direction.
-
-The portal is on the right side.
-Try RUN RIGHT instead.
-```
-
-</details>
-
-</details>
-
-<details>
-<summary>⬇️ DROP DOWN</summary>
-
-```text
-You dropped below the platform.
+You fell from the platform.
 
 ❤️ ❤️
+
 Checkpoint restored.
-Try JUMP TO PLATFORM.
+
+Try:
+⬆️ JUMP
 ```
 
 </details>
-
-</details>
-
-<details>
-<summary>⬅️ MOVE LEFT</summary>
-
-```text
-Nothing here.
-
-PLAYER ▣  ←  START AREA
-
-Hint: the first coin is on the right.
-```
 
 </details>
 
@@ -415,11 +421,11 @@ Hint: the first coin is on the right.
 
 <div align="center">
 
-### `CONTROLS`
+### `PROFILE GAME CONTROLS`
 
-`▶ START` • `⬅ LEFT` • `⬆ JUMP` • `➡ RIGHT` • `🌀 PORTAL`
+`⬅ LEFT` • `➡ RIGHT` • `⬆ JUMP` • `⬇ DROP` • `🌀 PORTAL`
 
-<sub>GitHub README safe-mode game — click the controls above to progress.</sub>
+<sub>Interactive GitHub README mode — click each control to progress through the game.</sub>
 
 </div>
 
