@@ -337,7 +337,5 @@ RAVS@github:~$ status
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs/main/assets/system-online.gif" width="100%" alt="Ravs Dev System Online"/>
-
 </div>
 
