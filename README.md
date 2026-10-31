@@ -80,13 +80,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PAWN-SA--MP%20%2F%20open.mp-2563EB?style=for-the-badge&logo=c&logoColor=white"/>
-
 </div>
-
----
-
-## `◈ CORE LANGUAGES`
 
 <div align="center">
 
