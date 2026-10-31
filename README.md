@@ -261,36 +261,167 @@ Programming learning web project with coding examples and a developer-oriented i
 
 ---
 
-# `⟨ GAME LAB :: PLAYABLE DEMO ⟩`
+# `⟨ GAME LAB :: README PLAY MODE ⟩`
 
 <div align="center">
 
-### 🎮 Collect the coins. Reach the portal.
+### 🎮 RAVS DEV — PORTAL RUN
 
-<img src="./assets/game-preview.svg" width="100%" alt="Ravs Dev Game Lab Preview"/>
-
-<br>
-
-<a href="https://ravs-dev.github.io/Ravs-Dev/game/"><img src="https://img.shields.io/badge/▶%20PLAY%20GAME-RAVS%20DEV%20GAME%20LAB-22D3EE?style=for-the-badge&logo=gamejolt&logoColor=00111F"/></a>
-<a href="./game/index.html"><img src="https://img.shields.io/badge/VIEW-GAME%20SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br><br>
-
-```text
-╭──────────────────────────────────────────────────────────╮
-│  RAVS DEV GAME LAB                           SCORE 0000  │
-│                                                          │
-│        PLAYER        ●        ●        ●        PORTAL   │
-│          ▣          🪙       🪙       🪙          ◫      │
-│  ════════════════════════════════════════════════════    │
-│                                                          │
-│  MOVE: A/D or ←/→   JUMP: W/↑/SPACE   RESTART: R       │
-╰──────────────────────────────────────────────────────────╯
-```
+`Goal: collect the 3 coins, then choose the correct final move to reach the portal.`
 
 </div>
 
-> The game files are included in this repository. Enable **GitHub Pages** from the `main` branch to make the Play Game button live.
+> This version runs **inside the GitHub profile README** using GitHub-supported expandable controls. No external page is required.
+
+---
+
+<details>
+<summary><b>▶ START GAME</b></summary>
+
+<br>
+
+```text
+RAVS DEV GAME LAB
+
+❤️ ❤️ ❤️                          SCORE: 0000
+
+   PLAYER
+     ▣
+
+═══════     🪙        ═══════     🪙       ═══════     🪙    🌀
+ START                                                        PORTAL
+
+MISSION:
+Collect all 3 coins and reach the portal.
+```
+
+### CONTROL 01
+
+<details>
+<summary>➡️ MOVE RIGHT</summary>
+
+```text
+❤️ ❤️ ❤️                          SCORE: 0100
+
+             PLAYER
+               ▣
+═══════     [✓]        ═══════     🪙       ═══════     🪙    🌀
+            COIN 1
+
+✓ Coin 1 collected.
+```
+
+### CONTROL 02
+
+<details>
+<summary>⬆️ JUMP TO PLATFORM</summary>
+
+```text
+❤️ ❤️ ❤️                          SCORE: 0200
+
+                            PLAYER
+                              ▣
+═══════     [✓]        ═══════    [✓]       ═══════     🪙    🌀
+                                  COIN 2
+
+✓ Coin 2 collected.
+```
+
+### CONTROL 03
+
+<details>
+<summary>➡️ RUN RIGHT</summary>
+
+```text
+❤️ ❤️ ❤️                          SCORE: 0300
+
+                                               PLAYER
+                                                 ▣
+═══════     [✓]        ═══════    [✓]       ═══════    [✓]    🌀
+                                                        COIN 3
+
+✓ All coins collected.
+⚡ Portal unlocked.
+```
+
+### FINAL CONTROL
+
+<details>
+<summary>🌀 ENTER PORTAL</summary>
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║                MISSION COMPLETE                      ║
+║                                                      ║
+║                   SCORE: 0800                        ║
+║                                                      ║
+║           RAVS DEV • GAME LAB ONLINE                 ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**🏆 YOU WIN — Portal reached successfully.**
+
+</details>
+
+</details>
+
+<details>
+<summary>⬅️ GO BACK</summary>
+
+```text
+Wrong direction.
+
+The portal is on the right side.
+Try RUN RIGHT instead.
+```
+
+</details>
+
+</details>
+
+<details>
+<summary>⬇️ DROP DOWN</summary>
+
+```text
+You dropped below the platform.
+
+❤️ ❤️
+Checkpoint restored.
+Try JUMP TO PLATFORM.
+```
+
+</details>
+
+</details>
+
+<details>
+<summary>⬅️ MOVE LEFT</summary>
+
+```text
+Nothing here.
+
+PLAYER ▣  ←  START AREA
+
+Hint: the first coin is on the right.
+```
+
+</details>
+
+</details>
+
+---
+
+<div align="center">
+
+### `CONTROLS`
+
+`▶ START` • `⬅ LEFT` • `⬆ JUMP` • `➡ RIGHT` • `🌀 PORTAL`
+
+<sub>GitHub README safe-mode game — click the controls above to progress.</sub>
+
+</div>
 
 ---
 
