@@ -261,7 +261,7 @@ Programming learning web project with coding examples and a developer-oriented i
 
 ---
 
-# `⟨ GAME LAB :: PLAYABLE PROFILE GAME ⟩`
+# `⟨ GAME LAB :: PROFILE PLAY MODE ⟩`
 
 <div align="center">
 
@@ -271,63 +271,71 @@ Programming learning web project with coding examples and a developer-oriented i
 
 <br><br>
 
-`MISSION: Collect 3 coins → unlock portal → finish the level`
-
-<br>
-
 <img src="https://img.shields.io/badge/GAME-READY-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SCORE-0000-38BDF8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LEVEL-01-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COINS-0%2F3-FACC15?style=for-the-badge"/>
+
+<br><br>
+
+### `CLICK THE CONTROL BUTTONS BELOW`
 
 </div>
 
 ---
 
 <details open>
-<summary><b>▶ START GAME</b></summary>
+<summary>
+<img src="https://img.shields.io/badge/▶-START%20GAME-38BDF8?style=for-the-badge&logoColor=white" alt="Start Game"/>
+</summary>
 
 <br>
 
 ```text
-╭──────────────────────────────────────────────────────────────────╮
-│ RAVS DEV GAME LAB                                   SCORE: 0000 │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│   PLAYER                                                         │
-│     ▣                                                            │
-│                                                                  │
-│ ═══════      🪙        ═══════      🪙       ═══════      🪙   🌀 │
-│  START                                                PORTAL      │
-│                                                                  │
-│ OBJECTIVE: Collect all coins, then enter the portal.              │
-╰──────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────╮
+│ RAVS DEV GAME LAB                                SCORE: 0000   │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│   ▣                                                            │
+│ PLAYER                                                         │
+│                                                                │
+│ ═══════      🪙        ═══════      🪙       ═══════      🪙 🌀 │
+│ START                                                   PORTAL │
+│                                                                │
+╰────────────────────────────────────────────────────────────────╯
 ```
 
-### 🎮 CONTROLS
+<div align="center">
+
+### CONTROLS
+
+</div>
 
 <details>
-<summary><b>⬅️ MOVE LEFT</b></summary>
+<summary>
+<img src="https://img.shields.io/badge/⬅-LEFT-0F172A?style=for-the-badge" alt="Move Left"/>
+</summary>
 
 ```text
-PLAYER moved left.
+PLAYER ▣ moved LEFT.
 
-Nothing found here.
+Nothing found.
 
-Hint:
-The first coin is on the RIGHT.
+Hint: Coin 1 is on the right.
 ```
 
 </details>
 
 <details>
-<summary><b>➡️ MOVE RIGHT — COLLECT COIN 1</b></summary>
+<summary>
+<img src="https://img.shields.io/badge/➡-RIGHT-0EA5E9?style=for-the-badge" alt="Move Right"/>
+</summary>
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│ SCORE: 0100                                                │
+│ SCORE: 0100                                  COINS: 1/3    │
 │                                                            │
-│            PLAYER                                          │
 │              ▣                                             │
+│            PLAYER                                          │
 │ ═══════     [✓]       ═══════      🪙      ═══════    🪙 🌀 │
 │             COIN 1                                         │
 ╰────────────────────────────────────────────────────────────╯
@@ -335,17 +343,17 @@ The first coin is on the RIGHT.
 ✓ COIN 1 COLLECTED
 ```
 
-### NEXT MOVE
-
 <details>
-<summary><b>⬆️ JUMP — COLLECT COIN 2</b></summary>
+<summary>
+<img src="https://img.shields.io/badge/⬆-JUMP-2563EB?style=for-the-badge" alt="Jump"/>
+</summary>
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│ SCORE: 0200                                                │
+│ SCORE: 0200                                  COINS: 2/3    │
 │                                                            │
-│                         PLAYER                             │
-│                           ▣                                │
+│                          ▣                                 │
+│                        PLAYER                              │
 │ ═══════     [✓]       ═══════     [✓]      ═══════    🪙 🌀 │
 │                                  COIN 2                    │
 ╰────────────────────────────────────────────────────────────╯
@@ -353,17 +361,17 @@ The first coin is on the RIGHT.
 ✓ COIN 2 COLLECTED
 ```
 
-### NEXT MOVE
-
 <details>
-<summary><b>➡️ RUN RIGHT — COLLECT COIN 3</b></summary>
+<summary>
+<img src="https://img.shields.io/badge/➡-RUN%20RIGHT-0284C7?style=for-the-badge" alt="Run Right"/>
+</summary>
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│ SCORE: 0300                                                │
+│ SCORE: 0300                                  COINS: 3/3    │
 │                                                            │
-│                                           PLAYER           │
 │                                             ▣              │
+│                                           PLAYER           │
 │ ═══════     [✓]       ═══════     [✓]      ═══════   [✓] 🌀 │
 │                                                     COIN 3 │
 ╰────────────────────────────────────────────────────────────╯
@@ -372,10 +380,10 @@ The first coin is on the RIGHT.
 ⚡ PORTAL UNLOCKED
 ```
 
-### FINAL MOVE
-
 <details>
-<summary><b>🌀 ENTER PORTAL</b></summary>
+<summary>
+<img src="https://img.shields.io/badge/🌀-ENTER%20PORTAL-22D3EE?style=for-the-badge" alt="Enter Portal"/>
+</summary>
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
@@ -384,35 +392,16 @@ The first coin is on the RIGHT.
 ║                                                          ║
 ║                   SCORE: 0800                            ║
 ║                                                          ║
-║              RAVS DEV GAME LAB                           ║
+║                🏆 YOU WIN!                               ║
 ║                                                          ║
-║                   YOU WIN!                               ║
+║           RAVS DEV GAME LAB ONLINE                       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-🏆 **LEVEL COMPLETED**
-
 </details>
-
 </details>
-
-<details>
-<summary><b>⬇️ DROP DOWN</b></summary>
-
-```text
-You fell from the platform.
-
-❤️ ❤️
-
-Checkpoint restored.
-
-Try:
-⬆️ JUMP
-```
-
 </details>
-
 </details>
 
 </details>
@@ -421,11 +410,14 @@ Try:
 
 <div align="center">
 
-### `PROFILE GAME CONTROLS`
+<img src="https://img.shields.io/badge/⬅-LEFT-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/⬆-JUMP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/➡-RIGHT-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/🌀-PORTAL-22D3EE?style=flat-square"/>
 
-`⬅ LEFT` • `➡ RIGHT` • `⬆ JUMP` • `⬇ DROP` • `🌀 PORTAL`
+<br><br>
 
-<sub>Interactive GitHub README mode — click each control to progress through the game.</sub>
+<sub>Controls run directly inside the GitHub profile using GitHub-supported clickable panels.</sub>
 
 </div>
 
