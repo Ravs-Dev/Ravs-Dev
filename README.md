@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs/main/assets/profile.png" width="185" alt="Ravs Dev Profile"/>
+<img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs//assets/profile.png" width="185" alt="Ravs Dev Profile"/>
 
 ### `RAVS-DEV // DEVELOPMENT NODE`
 
