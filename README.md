@@ -11,12 +11,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Game+Developer;SA-MP+%2F+open.mp+%7C+FiveM+%7C+Unreal+Engine;Building+Systems+from+Code+to+Server;Always+Learning+%E2%80%A2+Always+Building" alt="Ravs Dev typing intro"/>
 <br>
 
-<img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs/main/assets/system-online.gif" width="100%" alt="Ravs Dev System Online"/>
-
-
-
-<br>
-
 <a href="https://github.com/Ravs-Dev"><img src="https://img.shields.io/badge/GitHub-Ravs--Dev-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Ravs-Dev&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge"/>
@@ -336,3 +330,12 @@ RAVS@github:~$ status
 `[ RAVS DEV ] • [ DEVELOPMENT NODE ONLINE ]`
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs/main/assets/system-online.gif" width="100%" alt="Ravs Dev System Online"/>
+
+</div>
+
