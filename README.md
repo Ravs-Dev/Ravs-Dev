@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="./assets/profile.png" width="220" alt="Ravs Dev Profile"/>
+<img src="./assets/hero.svg" width="100%" alt="Ravs Dev — Backend, Game Systems and Server Development"/>
 
-# `RAVS DEV`
+<br>
 
-### `BACKEND DEVELOPER • GAME DEVELOPER • SERVER DEVELOPER`
+<img src="./assets/profile.png" width="185" alt="Ravs Dev Profile"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Backend+Systems+%26+Game+Servers;SA-MP+%2F+open.mp+%7C+FiveM+%7C+Unreal+Engine;C+%7C+C%2B%2B+%7C+PAWN+%7C+Lua+%7C+Python;Web+%7C+Android+%7C+Database+Development;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat" />
+### `RAVS-DEV // DEVELOPMENT NODE`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Game+Developer;SA-MP+%2F+open.mp+%7C+FiveM+%7C+Unreal+Engine;Building+Systems+from+Code+to+Server;Always+Learning+%E2%80%A2+Always+Building" alt="Ravs Dev typing intro"/>
 
 <br>
 
@@ -17,52 +19,55 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/AVAILABLE-FOR%20PROJECTS-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOCUS-GAME%20%26%20BACKEND-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/GAME%20%26%20BACKEND-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/SERVER%20SYSTEMS-0369A1?style=flat-square"/>
 
 </div>
 
 ---
 
-## `⟨ DEVELOPER PROFILE :: RAVS DEV ⟩`
+## `⟨ PROFILE :: WHAT I BUILD ⟩`
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="33%" valign="top">
 
-### 👨‍💻 About Me
-
-I'm **Ravs-Dev**, focused on building backend architecture, multiplayer game systems, web applications, Android projects, databases, and Linux/VPS infrastructure.
-
-My main development areas:
-
-- 🎮 Game Development
-- ⚙️ Backend Development
-- 🌐 Web Development
-- 📱 Android Development
-- 🗄️ Database Systems
-- 🖥️ Linux / VPS
-- 🚀 Multiplayer Roleplay Systems
-
-> `Build • Learn • Improve • Repeat`
+### 🎮 Game Systems
+- FiveM / QBCore resources
+- SA-MP / open.mp gamemodes
+- Multiplayer roleplay systems
+- Character, inventory & vehicle logic
+- Unreal Engine / C++ projects
 
 </td>
-<td width="42%" valign="top">
+<td width="33%" valign="top">
 
-### ⚡ Developer Status
+### ⚙️ Backend Systems
+- APIs & server-side logic
+- Authentication systems
+- MySQL integration
+- Player & account data
+- Node.js / PHP / Python
 
-```text
-USER       : Ravs-Dev
-STATUS     : ONLINE
-MODE       : DEVELOPMENT
-FOCUS      : GAME + BACKEND
-STACK      : FULL SYSTEMS
-MISSION    : BUILD BETTER
-```
+</td>
+<td width="33%" valign="top">
+
+### 🖥️ Infrastructure
+- Linux & VPS
+- Server deployment
+- Bash workflows
+- Git / GitHub
+- Development environments
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+> **Build useful systems. Keep improving them.**
+
+</div>
 
 ---
 
@@ -214,26 +219,28 @@ MISSION    : BUILD BETTER
 
 ---
 
-# `⟨ PROJECT SHOWCASE :: ACTIVE BUILDS ⟩`
+# `⟨ FEATURED WORK :: SELECTED PROJECTS ⟩`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎮 Aceh Open World
+**C++ • Unreal Engine • Game Systems**
 
-C++ / Unreal Engine open-world project with story, multiplayer architecture, gameplay systems, and dedicated-server planning.
+Open-world project focused on story, gameplay architecture, multiplayer foundations and server-side planning.
 
-<a href="https://github.com/Ravs-Dev/Game-Sendiri"><img src="https://img.shields.io/badge/VIEW-PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ravs-Dev/Game-Sendiri"><img src="https://img.shields.io/badge/OPEN-PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌆 LineCity Roleplay
+**FiveM • QBCore • Lua • MySQL**
 
-FiveM/QBCore roleplay development with custom resources, UI systems, database integration, jobs, inventory, phone and server systems.
+Roleplay server development with custom resources, interfaces, jobs, inventory, phone and gameplay systems.
 
-<a href="https://github.com/Ravs-Dev/Grand-Country"><img src="https://img.shields.io/badge/VIEW-PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ravs-Dev/Grand-Country"><img src="https://img.shields.io/badge/OPEN-PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -241,19 +248,21 @@ FiveM/QBCore roleplay development with custom resources, UI systems, database in
 <td width="50%" valign="top">
 
 ### 🕹️ Gamemode OpenMP
+**PAWN • open.mp • MySQL**
 
-SA-MP/open.mp multiplayer gamemode work using PAWN and roleplay systems.
+Multiplayer gamemode development with account, character, vehicle and roleplay systems.
 
-<a href="https://github.com/Ravs-Dev/Gamemode-OpenMp"><img src="https://img.shields.io/badge/VIEW-PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ravs-Dev/Gamemode-OpenMp"><img src="https://img.shields.io/badge/OPEN-PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Web Belajar Coding
+**HTML • CSS • JavaScript • PHP**
 
-Programming learning web project with coding examples and a developer-oriented interface.
+Programming-learning web project containing coding examples and developer-oriented interfaces.
 
-<a href="https://github.com/Ravs-Dev/Web-Belajar-Coding"><img src="https://img.shields.io/badge/VIEW-PROJECT-0369A1?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ravs-Dev/Web-Belajar-Coding"><img src="https://img.shields.io/badge/OPEN-PROJECT-0369A1?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -261,208 +270,46 @@ Programming learning web project with coding examples and a developer-oriented i
 
 ---
 
-# `⟨ GAME LAB :: PROFILE PLAY MODE ⟩`
+# `⟨ DEVELOPMENT STATUS :: CURRENT FOCUS ⟩`
 
-<div align="center">
+```text
+RAVS@github:~$ status
 
-## 🎮 RAVS DEV — PORTAL RUN
+[ ACTIVE ]  Game Development
+[ ACTIVE ]  FiveM / QBCore Development
+[ ACTIVE ]  SA-MP / open.mp Development
+[ ACTIVE ]  Backend & Database Systems
+[ ACTIVE ]  Web / Android Development
+[ ACTIVE ]  Linux / VPS Infrastructure
 
-<img src="./assets/game-preview.svg" width="100%" alt="Ravs Dev Game Lab Preview"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GAME-READY-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEVEL-01-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COINS-0%2F3-FACC15?style=for-the-badge"/>
-
-<br><br>
-
-### `CLICK THE CONTROL BUTTONS BELOW`
-
-</div>
+> BUILDING SYSTEMS. IMPROVING EVERY ITERATION.
+```
 
 ---
 
-<details open>
-<summary>
-<img src="https://img.shields.io/badge/▶-START%20GAME-38BDF8?style=for-the-badge&logoColor=white" alt="Start Game"/>
-</summary>
+# `⟨ GITHUB :: DEVELOPMENT ANALYTICS ⟩`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravs-Dev&theme=tokyonight" width="100%" alt="Ravs Dev GitHub profile details"/>
 
 <br>
 
-```text
-╭────────────────────────────────────────────────────────────────╮
-│ RAVS DEV GAME LAB                                SCORE: 0000   │
-├────────────────────────────────────────────────────────────────┤
-│                                                                │
-│   ▣                                                            │
-│ PLAYER                                                         │
-│                                                                │
-│ ═══════      🪙        ═══════      🪙       ═══════      🪙 🌀 │
-│ START                                                   PORTAL │
-│                                                                │
-╰────────────────────────────────────────────────────────────────╯
-```
-
-<div align="center">
-
-### CONTROLS
-
-</div>
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/⬅-LEFT-0F172A?style=for-the-badge" alt="Move Left"/>
-</summary>
-
-```text
-PLAYER ▣ moved LEFT.
-
-Nothing found.
-
-Hint: Coin 1 is on the right.
-```
-
-</details>
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/➡-RIGHT-0EA5E9?style=for-the-badge" alt="Move Right"/>
-</summary>
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│ SCORE: 0100                                  COINS: 1/3    │
-│                                                            │
-│              ▣                                             │
-│            PLAYER                                          │
-│ ═══════     [✓]       ═══════      🪙      ═══════    🪙 🌀 │
-│             COIN 1                                         │
-╰────────────────────────────────────────────────────────────╯
-
-✓ COIN 1 COLLECTED
-```
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/⬆-JUMP-2563EB?style=for-the-badge" alt="Jump"/>
-</summary>
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│ SCORE: 0200                                  COINS: 2/3    │
-│                                                            │
-│                          ▣                                 │
-│                        PLAYER                              │
-│ ═══════     [✓]       ═══════     [✓]      ═══════    🪙 🌀 │
-│                                  COIN 2                    │
-╰────────────────────────────────────────────────────────────╯
-
-✓ COIN 2 COLLECTED
-```
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/➡-RUN%20RIGHT-0284C7?style=for-the-badge" alt="Run Right"/>
-</summary>
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│ SCORE: 0300                                  COINS: 3/3    │
-│                                                            │
-│                                             ▣              │
-│                                           PLAYER           │
-│ ═══════     [✓]       ═══════     [✓]      ═══════   [✓] 🌀 │
-│                                                     COIN 3 │
-╰────────────────────────────────────────────────────────────╯
-
-✓ COIN 3 COLLECTED
-⚡ PORTAL UNLOCKED
-```
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/🌀-ENTER%20PORTAL-22D3EE?style=for-the-badge" alt="Enter Portal"/>
-</summary>
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                 MISSION COMPLETE                         ║
-║                                                          ║
-║                   SCORE: 0800                            ║
-║                                                          ║
-║                🏆 YOU WIN!                               ║
-║                                                          ║
-║           RAVS DEV GAME LAB ONLINE                       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</details>
-</details>
-</details>
-</details>
-
-</details>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⬅-LEFT-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/⬆-JUMP-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/➡-RIGHT-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/🌀-PORTAL-22D3EE?style=flat-square"/>
-
-<br><br>
-
-<sub>Controls run directly inside the GitHub profile using GitHub-supported clickable panels.</sub>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravs-Dev&theme=tokyonight" width="32%" alt="Repositories per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravs-Dev&theme=tokyonight" width="32%" alt="Most commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravs-Dev&theme=tokyonight" width="32%" alt="GitHub stats"/>
 
 </div>
 
 ---
 
-# `⟨ GITHUB ANALYTICS :: DEVELOPMENT DATA ⟩`
+# `⟨ ACTIVITY :: CONTRIBUTION GRAPH ⟩`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravs-Dev&theme=tokyonight" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravs-Dev&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravs-Dev&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravs-Dev&theme=tokyonight" width="32%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravs-Dev&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Ravs Dev contribution graph"/>
 
 </div>
-
----
-
-# `⟨ ACTIVITY MATRIX :: CONTRIBUTION GRAPH ⟩`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravs-Dev&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `⟨ DEVELOPMENT CONSOLE :: SYSTEM STATUS ⟩`
-
-```text
-ravs@github:~$ system-status
-
-GAME DEVELOPMENT ............. ONLINE
-BACKEND DEVELOPMENT .......... ONLINE
-DATABASE ..................... ONLINE
-WEB DEVELOPMENT .............. ONLINE
-ANDROID DEVELOPMENT .......... ONLINE
-SERVER INFRASTRUCTURE ........ ONLINE
-
-> SYSTEM READY.
-```
 
 ---
 
@@ -470,12 +317,16 @@ SERVER INFRASTRUCTURE ........ ONLINE
 
 ## `NEED A DEVELOPER?`
 
-**Backend • Game Servers • FiveM • open.mp • Web • Android**
+### Backend • Game Systems • FiveM • open.mp • Web • Android
 
 <a href="https://github.com/Ravs-Dev"><img src="https://img.shields.io/badge/GITHUB-RAVS--DEV-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AVAILABLE-FOR%20PROJECTS-22C55E?style=for-the-badge"/>
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CODE+IN+PROGRESS+%5D;%5B+BUILDING+THE+FUTURE+%5D" alt="System online"/>
+
+<br>
 
 `[ RAVS DEV ] • [ DEVELOPMENT NODE ONLINE ]`
 
