@@ -9,6 +9,11 @@
 ### `RAVS-DEV // DEVELOPMENT NODE`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Game+Developer;SA-MP+%2F+open.mp+%7C+FiveM+%7C+Unreal+Engine;Building+Systems+from+Code+to+Server;Always+Learning+%E2%80%A2+Always+Building" alt="Ravs Dev typing intro"/>
+<br>
+
+<img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs/main/assets/system-online.gif" width="100%" alt="Ravs Dev System Online"/>
+
+
 
 <br>
 
