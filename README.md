@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Ravs Dev — Backend, Game Systems and Server Development"/>
+<img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs/main/assets/hero.svg" width="100%" alt="Ravs Dev — Backend, Game Systems and Server Development"/>
 
 <br>
 
-<img src="./assets/profile.png" width="185" alt="Ravs Dev Profile"/>
+<img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs/main/assets/profile.png" width="185" alt="Ravs Dev Profile"/>
 
 ### `RAVS-DEV // DEVELOPMENT NODE`
 
