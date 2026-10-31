@@ -1,56 +1,113 @@
 <div align="center">
 
-<img src="https://github.com/Ravs-Dev.png" width="150" alt="Ravs-Dev GitHub Avatar"/>
+<!-- ============================================ -->
+<!--                HERO SECTION                  -->
+<!-- ============================================ -->
 
-# RAVS DEV
+<img src="./assets/profile.png" width="190" alt="Ravs Dev Profile"/>
 
-### `BACKEND • GAME SYSTEMS • SERVER DEVELOPMENT`
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Game+Developer;SA-MP+%2F+open.mp+%7C+FiveM+Development;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+JavaScript+%7C+Lua;Building+Systems+%E2%80%A2+Learning+%E2%80%A2+Improving" alt="Typing SVG"/>
+# `RAVS DEV`
+
+### `BACKEND DEVELOPER • GAME DEVELOPER • SERVER DEVELOPER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2700&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Backend+Systems+%26+Game+Servers;SA-MP+%2F+open.mp+%7C+FiveM+Development;C+%7C+C%2B%2B+%7C+PAWN+%7C+Lua+%7C+Python;Web+%7C+Android+%7C+Database+Development;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG"/>
+
+<br>
+
+<a href="https://github.com/Ravs-Dev">
+<img src="https://img.shields.io/badge/GITHUB-RAVS--DEV-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Ravs-Dev&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge&logo=statuspage&logoColor=white"/>
 
 <br><br>
 
-<a href="https://github.com/Ravs-Dev">
-<img src="https://img.shields.io/badge/GitHub-Ravs--Dev-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Ravs-Dev&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/AVAILABLE-FOR%20PROJECTS-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-GAME%20%26%20BACKEND-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-0EA5E9?style=flat-square"/>
 
 </div>
 
 ---
 
-## `⟨ DEVELOPER PROFILE :: SYSTEM IDENTITY ⟩`
+# `⟨ RAVS DEV :: DEVELOPER PROFILE ⟩`
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+## 👨‍💻 About Me
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                     R A V S  •  D E V                        │
-├──────────────────────────────────────────────────────────────┤
-│ USER       : Ravs-Dev                                        │
-│ MODE       : Development                                     │
-│ STATUS     : Online / Building                               │
-│ FOCUS      : Backend • Game Systems • Server Architecture    │
-├──────────────────────────────────────────────────────────────┤
-│ SPECIALIZATION                                               │
-│  ├─ Backend Development                                      │
-│  ├─ Game Development                                         │
-│  ├─ SA-MP / open.mp Development                              │
-│  ├─ FiveM Development                                        │
-│  ├─ Web Development                                          │
-│  ├─ Android Development                                      │
-│  └─ Linux / VPS Server Management                            │
-├──────────────────────────────────────────────────────────────┤
-│ MISSION                                                      │
-│  Build useful systems. Learn continuously. Improve always.   │
-╰──────────────────────────────────────────────────────────────╯
+RAVS@github:~$ whoami
 ```
+
+I'm **Ravs-Dev**, a developer focused on building modern backend systems, multiplayer game servers, web applications, Android projects, and server infrastructure.
+
+My main development areas are:
+
+- 🎮 Game Development
+- ⚙️ Backend Development
+- 🌐 Web Development
+- 📱 Android Development
+- 🗄️ Database Systems
+- 🖥️ Linux & VPS
+- 🔧 Server Infrastructure
+- 🚀 Multiplayer Roleplay Systems
+
+I enjoy building systems from the ground up and continuously improving them.
+
+</td>
+
+<td width="42%" valign="top">
+
+## ⚡ Developer Status
+
+```text
+USER        : Ravs-Dev
+
+STATUS      : ONLINE
+MODE        : DEVELOPMENT
+
+MAIN FOCUS
+├─ Game Systems
+├─ Backend Systems
+├─ Server Architecture
+└─ Database Systems
+
+CURRENTLY
+├─ Building
+├─ Learning
+└─ Improving
+```
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-Developer-0284C7?style=flat-square" alt="Backend Developer"/>
-<img src="https://img.shields.io/badge/Game-Developer-2563EB?style=flat-square" alt="Game Developer"/>
-<img src="https://img.shields.io/badge/FiveM-Developer-38BDF8?style=flat-square" alt="FiveM Developer"/>
-<img src="https://img.shields.io/badge/open.mp-Developer-0EA5E9?style=flat-square" alt="open.mp Developer"/>
+## `◈ DEVELOPMENT SPECIALIZATION`
+
+<img src="https://img.shields.io/badge/Backend-Developer-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game-Developer-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FiveM-Developer-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/open.mp-Developer-0EA5E9?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Web-Developer-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
@@ -100,6 +157,12 @@
 <img src="https://img.shields.io/badge/open.mp-Multiplayer%20Server-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PAWN-Gamemode%20Development-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Roleplay-System%20Development-1E40AF?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FiveM-QBCore-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lua-Game%20Scripting-2C2D72?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multiplayer-Server%20Systems-0284C7?style=for-the-badge"/>
 
 </div>
 
@@ -198,261 +261,503 @@
 
 ---
 
-## `⟨ DEVELOPMENT CORE :: CURRENT FOCUS ⟩`
+# `⟨ GAME SYSTEMS :: DEVELOPMENT AREA ⟩`
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎮 Game Systems
+## 🎮 SA-MP / open.mp
 
-- SA-MP / open.mp gamemode development
-- FiveM server development
-- Roleplay systems & gameplay logic
-- Player, character, vehicle & inventory systems
-- Jobs, factions, businesses & economy systems
+```text
+ENGINE
+└── GTA San Andreas
+
+SERVER
+├── SA-MP
+└── open.mp
+
+LANGUAGE
+└── PAWN
+
+SYSTEMS
+├── Account
+├── Character
+├── Vehicle
+├── Inventory
+├── Jobs
+├── Factions
+├── Business
+├── Economy
+└── Roleplay Systems
+```
 
 </td>
+
 <td width="50%" valign="top">
 
-### ⚙️ Backend & Infrastructure
+## 🎮 FiveM
 
-- Backend services & APIs
-- MySQL database systems
-- Authentication & account systems
-- Linux / VPS deployment
-- Git & GitHub workflow
+```text
+ENGINE
+└── GTA V
+
+FRAMEWORK
+└── QBCore
+
+LANGUAGE
+├── Lua
+├── JavaScript
+└── HTML / CSS
+
+SYSTEMS
+├── Character
+├── Inventory
+├── Phone
+├── HUD
+├── Jobs
+├── Police
+├── EMS
+└── Custom Resources
+```
 
 </td>
+
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🌐 Web Development
-
-- HTML, CSS & JavaScript
-- PHP backend
-- Node.js services
-- Dashboard & UCP development
-- Responsive interfaces
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile Development
-
-- Android Studio
-- Java Android development
-- Game client / launcher concepts
-- Download, update & extraction systems
-- API integration
-
-</td>
-</tr>
 </table>
 
 ---
 
-## `⟨ LANGUAGE CORE :: PROGRAMMING MATRIX ⟩`
-
-```text
-LANGUAGE       PRIMARY USE
-──────────────────────────────────────────────────────────────
-C              System Development
-C++            Application / Game Development
-PAWN           SA-MP / open.mp Gamemode Development
-Lua            FiveM / Game Scripting
-Python         Scripting / Backend / Automation
-Java           Android Development
-JavaScript     Web / Backend
-PHP            Web Backend
-SQL            Database Management
-```
-
----
-
-## `⟨ ACTIVE SYSTEMS :: DEVELOPMENT STATUS ⟩`
-
-```text
-ravs@github:~$ system-status
-
-[ ONLINE ]  openmp.service       → Multiplayer Roleplay Systems
-[ ONLINE ]  fivem.service        → FiveM Server Development
-[ ONLINE ]  backend.service      → API • Logic • Services
-[ ONLINE ]  database.service     → MySQL • Player Data • Accounts
-[ ONLINE ]  web.service          → Web Applications • UCP
-[ ONLINE ]  android.service      → Android Client Development
-[ ONLINE ]  linux.service        → VPS • Deployment • Automation
-
-> ALL DEVELOPMENT SYSTEMS OPERATIONAL
-```
+# `⟨ PLAYGROUND :: MINI GAME ⟩`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPEN.MP-ACTIVE-22C55E?style=for-the-badge" alt="open.mp active"/>
-<img src="https://img.shields.io/badge/FiveM-ACTIVE-22C55E?style=for-the-badge" alt="FiveM active"/>
-<img src="https://img.shields.io/badge/Backend-ACTIVE-22C55E?style=for-the-badge" alt="Backend active"/>
-<img src="https://img.shields.io/badge/Database-ACTIVE-22C55E?style=for-the-badge" alt="Database active"/>
+### 🎮 `RAVS DEV GAME LAB`
+
+A small playable game built as part of my development playground.
+
+<br>
+
+<a href="https://ravs-dev.github.io/Ravs-Dev/game/">
+<img src="https://img.shields.io/badge/▶%20PLAY%20GAME-START%20DEMO-22D3EE?style=for-the-badge&logo=gamejolt&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/Ravs-Dev">
+<img src="https://img.shields.io/badge/VIEW-GAME%20SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│              🎮 RAVS DEV GAME LAB                      │
+│                                                        │
+│      PLAYER        ●●●                                 │
+│                                                        │
+│        🧍      🪙      🪙      🪙            🚩        │
+│   ════════════════════════════════════════════         │
+│                                                        │
+│      MOVE    : ← →                                     │
+│      JUMP    : SPACE / ↑                               │
+│      RESTART : R                                       │
+│                                                        │
+│                [ START GAME ]                          │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
 
 </div>
 
+> GitHub README tidak menjalankan JavaScript secara langsung. Game-nya dijalankan melalui **GitHub Pages**, sedangkan tombol `PLAY GAME` dari profil GitHub akan membuka game tersebut.
+
 ---
 
-## `⟨ FEATURED PROJECTS :: PROJECT MATRIX ⟩`
+# `⟨ ACTIVE DEVELOPMENT :: CURRENT SYSTEMS ⟩`
+
+```text
+ravs@github:~$ systemctl status ravs-development
+
+● openmp.service
+   Status : ACTIVE
+   Focus  : Multiplayer Roleplay Development
+
+● fivem.service
+   Status : ACTIVE
+   Focus  : FiveM / QBCore Resources
+
+● backend.service
+   Status : ACTIVE
+   Focus  : APIs • Authentication • Server Logic
+
+● database.service
+   Status : ACTIVE
+   Focus  : MySQL • Player Data • Account Data
+
+● web.service
+   Status : ACTIVE
+   Focus  : Web Applications • Dashboard • UCP
+
+● android.service
+   Status : ACTIVE
+   Focus  : Android Client Development
+
+● infrastructure.service
+   Status : ACTIVE
+   Focus  : Linux • VPS • Deployment
+
+
+STATUS: ALL DEVELOPMENT SYSTEMS OPERATIONAL
+```
+
+---
+
+# `⟨ DEVELOPMENT MATRIX :: SKILLS ⟩`
 
 <table>
+
 <tr>
-<td width="33%" align="center" valign="top">
 
-### Gamemode-OpenMp
+<td width="33%" valign="top">
 
-SA-MP / open.mp gamemode and multiplayer roleplay development.
+### 🎮 Game
 
-<a href="https://github.com/Ravs-Dev/Gamemode-OpenMp">
-<img src="https://img.shields.io/badge/VIEW-REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Gamemode-OpenMp Repository"/>
-</a>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Client-Home-RP
-
-Client-side project and development experiments for roleplay systems.
-
-<a href="https://github.com/Ravs-Dev/Client-Home-RP">
-<img src="https://img.shields.io/badge/VIEW-REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Client-Home-RP Repository"/>
-</a>
+- SA-MP
+- open.mp
+- FiveM
+- QBCore
+- PAWN
+- Lua
+- Game Systems
+- Multiplayer Systems
 
 </td>
-<td width="33%" align="center" valign="top">
 
-### Tugas-Kampus
+<td width="33%" valign="top">
 
-Programming, algorithm, and computer science coursework projects.
+### ⚙️ Backend
 
-<a href="https://github.com/Ravs-Dev/Tugas-Kampus">
-<img src="https://img.shields.io/badge/VIEW-REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Tugas-Kampus Repository"/>
-</a>
+- Node.js
+- PHP
+- Python
+- Java
+- REST API
+- Authentication
+- Server Logic
+- MySQL
 
 </td>
+
+<td width="33%" valign="top">
+
+### 🌐 Web
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Dashboard
+- UCP
+- Responsive UI
+- API Integration
+
+</td>
+
 </tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 📱 Mobile
+
+- Android Studio
+- Java
+- Android Client
+- Launcher Systems
+- Update Systems
+- Download Systems
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🖥️ Server
+
+- Linux
+- VPS
+- Bash
+- Deployment
+- Server Configuration
+- Resource Management
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛠️ Tools
+
+- Visual Studio Code
+- Visual Studio
+- Git
+- GitHub
+- MySQL
+- Terminal
+- GitHub Actions
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## `⟨ DEVELOPMENT NETWORK :: SPECIALIZATION MAP ⟩`
+# `⟨ FEATURED PROJECTS :: DEVELOPMENT SHOWCASE ⟩`
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 Game-Sendiri
+
+Open-world game development project.
+
+**Development focus**
+
+- C++
+- Unreal Engine
+- Multiplayer architecture
+- Gameplay systems
+- Story systems
+- Server systems
+
+<a href="https://github.com/Ravs-Dev/Game-Sendiri">
+<img src="https://img.shields.io/badge/VIEW-PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌆 LineCity Roleplay
+
+Custom FiveM roleplay server development.
+
+**Development focus**
+
+- FiveM
+- QBCore
+- Lua
+- MySQL
+- Custom resources
+- Roleplay systems
+
+<a href="https://github.com/Ravs-Dev/Grand-Country">
+<img src="https://img.shields.io/badge/VIEW-PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 Gamemode OpenMP
+
+Custom SA-MP / open.mp multiplayer gamemode.
+
+**Development focus**
+
+- PAWN
+- open.mp
+- MySQL
+- Character systems
+- Account systems
+- Roleplay systems
+
+<a href="https://github.com/Ravs-Dev/Gamemode-OpenMp">
+<img src="https://img.shields.io/badge/VIEW-PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Belajar Coding
+
+Web development and programming learning platform.
+
+**Development focus**
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Programming examples
+- Learning systems
+
+<a href="https://github.com/Ravs-Dev/Web-Belajar-Coding">
+<img src="https://img.shields.io/badge/VIEW-PROJECT-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# `⟨ DEVELOPMENT NETWORK :: SYSTEM TREE ⟩`
 
 ```text
 RAVS-DEV
 │
 ├── GAME DEVELOPMENT
+│   │
 │   ├── SA-MP
 │   ├── open.mp
 │   ├── FiveM
+│   ├── Unreal Engine
+│   │
 │   ├── PAWN
 │   ├── Lua
-│   └── Roleplay Systems
+│   ├── C++
+│   │
+│   └── SYSTEMS
+│       ├── Character
+│       ├── Inventory
+│       ├── Vehicle
+│       ├── Jobs
+│       ├── Factions
+│       ├── Economy
+│       └── Multiplayer
 │
-├── BACKEND DEVELOPMENT
+├── BACKEND
+│   │
 │   ├── Node.js
 │   ├── PHP
 │   ├── Python
 │   ├── Java
-│   ├── REST API
-│   ├── Authentication
-│   └── Server Architecture
+│   │
+│   └── SYSTEMS
+│       ├── Authentication
+│       ├── API
+│       ├── Database
+│       └── Server Logic
 │
-├── DATABASE
-│   ├── MySQL
-│   ├── Account Data
-│   ├── Character Data
-│   └── Game Data
-│
-├── WEB DEVELOPMENT
+├── WEB
+│   │
 │   ├── HTML
 │   ├── CSS
 │   ├── JavaScript
 │   ├── PHP
-│   ├── Dashboard
-│   └── UCP
+│   │
+│   └── APPLICATIONS
+│       ├── Dashboard
+│       ├── UCP
+│       └── Responsive Web
 │
-├── MOBILE DEVELOPMENT
+├── MOBILE
+│   │
 │   ├── Android Studio
 │   ├── Java
-│   ├── Launcher
-│   └── Update Systems
+│   │
+│   └── SYSTEMS
+│       ├── Launcher
+│       ├── Update
+│       └── Client
 │
-└── SERVER & TOOLS
+└── SERVER
+    │
     ├── Linux
     ├── VPS
     ├── Bash
     ├── Git
     ├── GitHub
+    │
     └── Deployment
 ```
 
 ---
 
-## `⟨ GITHUB CORE :: DEVELOPMENT ANALYTICS ⟩`
+# `⟨ GITHUB ANALYTICS :: DEVELOPMENT DATA ⟩`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravs-Dev&theme=tokyonight" width="100%" alt="Ravs-Dev GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravs-Dev&theme=tokyonight" width="100%"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravs-Dev&theme=tokyonight" width="32%" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravs-Dev&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravs-Dev&theme=tokyonight" width="32%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravs-Dev&theme=tokyonight" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravs-Dev&theme=tokyonight" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravs-Dev&theme=tokyonight" width="32%"/>
 
 </div>
 
-> If GitHub temporarily rate-limits an external statistics service, the cards may take a moment to refresh. The profile itself remains unaffected.
-
 ---
 
-## `⟨ ACTIVITY CORE :: CONTRIBUTION GRAPH ⟩`
+# `⟨ ACTIVITY MATRIX :: CONTRIBUTION GRAPH ⟩`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravs-Dev&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%" alt="Ravs-Dev Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravs-Dev&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## `⟨ ARCHITECTURE :: DEVELOPMENT FLOW ⟩`
+# `⟨ ARCHITECTURE :: DEVELOPMENT ECOSYSTEM ⟩`
 
 ```text
-                         ┌─────────────────┐
-                         │    RAVS-DEV     │
-                         └────────┬────────┘
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-       ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-       │ GAME SERVER │     │   BACKEND   │     │     WEB     │
-       └──────┬──────┘     └──────┬──────┘     └──────┬──────┘
-              │                   │                   │
-        PAWN / open.mp        Node.js / PHP      HTML / CSS / JS
-           Lua / FiveM        Python / Java           PHP
-              │                   │                   │
-              └─────────────┬─────┴──────┬────────────┘
-                            │            │
-                            ▼            ▼
-                       ┌────────┐   ┌──────────┐
-                       │ MySQL  │   │ Android  │
-                       │Database│   │  Client  │
-                       └────────┘   └──────────┘
+                         ┌─────────────────────┐
+                         │      RAVS-DEV       │
+                         │   DEVELOPMENT CORE  │
+                         └──────────┬──────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+     ┌────────────────┐    ┌────────────────┐    ┌────────────────┐
+     │ GAME SYSTEMS   │    │    BACKEND     │    │      WEB       │
+     └───────┬────────┘    └───────┬────────┘    └───────┬────────┘
+             │                     │                     │
+       PAWN / open.mp          Node.js / PHP        HTML / CSS
+       Lua / FiveM             Python / Java        JavaScript
+       C++ / Unreal                 │                    PHP
+             │                     │                     │
+             └──────────────┬──────┴───────┬─────────────┘
+                            │              │
+                            ▼              ▼
+                     ┌────────────┐ ┌──────────────┐
+                     │   MySQL    │ │   Android    │
+                     │  Database  │ │    Client    │
+                     └────────────┘ └──────────────┘
+                            │
+                            ▼
+                     ┌────────────┐
+                     │ Linux VPS  │
+                     │ Deployment │
+                     └────────────┘
 ```
 
 ---
 
-## `⟨ TERMINAL :: DEVELOPER CONSOLE ⟩`
+# `⟨ TERMINAL :: RAVS DEVELOPMENT CONSOLE ⟩`
 
-```text
+```bash
 ravs@github:~$ whoami
+
 > Backend Developer
 > Game Developer
 > SA-MP / open.mp Developer
@@ -460,84 +765,160 @@ ravs@github:~$ whoami
 > Web Developer
 > Android Developer
 
-ravs@github:~$ cat stack.conf
-> C / C++ / PAWN / Lua
-> Python / Java / JavaScript / PHP
-> MySQL / Linux / Bash / Git
+
+ravs@github:~$ cat languages.conf
+
+> C
+> C++
+> PAWN
+> Lua
+> Python
+> Java
+> JavaScript
+> PHP
+> SQL
+
+
+ravs@github:~$ cat framework.conf
+
+> QBCore
+> FiveM
+> open.mp
+> Unreal Engine
+
+
+ravs@github:~$ cat database.conf
+
+> MySQL
+
 
 ravs@github:~$ echo $MISSION
-> Build. Learn. Improve. Repeat.
 
-ravs@github:~$ status
-> SYSTEM READY
+> Build.
+> Learn.
+> Improve.
+> Repeat.
+
+
+ravs@github:~$ system-status
+
+GAME DEVELOPMENT ............. ONLINE
+BACKEND DEVELOPMENT .......... ONLINE
+DATABASE ..................... ONLINE
+WEB DEVELOPMENT .............. ONLINE
+ANDROID DEVELOPMENT .......... ONLINE
+SERVER INFRASTRUCTURE ........ ONLINE
+
+SYSTEM READY.
 ```
 
 ---
 
-## `⟨ ROADMAP :: CURRENT OBJECTIVES ⟩`
+# `⟨ CURRENT OBJECTIVES :: DEVELOPMENT ROADMAP ⟩`
 
 <table>
+
 <tr>
+
 <td width="33%" valign="top">
 
-### ✅ Active
+## ✅ ACTIVE
 
-- SA-MP / open.mp Development
-- FiveM Server Development
-- MySQL Integration
-- Backend Development
-- Android Development
-- Web Development
+- SA-MP Development
+- open.mp Development
+- FiveM Development
+- QBCore Development
+- MySQL
+- Backend
+- Web
+- Android
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🚧 In Progress
+## 🚧 BUILDING
 
 - Advanced Roleplay Systems
-- Account & Character Systems
-- UCP Development
-- Android Launcher
+- Game Systems
+- Character Systems
 - Server Infrastructure
 - API Integration
-- Performance Optimization
+- Web Dashboard
+- Android Launcher
+- Open World Game
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🎯 Next
+## 🎯 NEXT
 
-- Advanced Backend Architecture
-- More C / C++ Projects
-- More Lua Projects
-- More Python Projects
-- Web Dashboard Systems
+- Advanced C++
+- Unreal Engine Systems
+- Multiplayer Architecture
+- Advanced Backend
+- Performance Optimization
+- Better Deployment
 - Game Server Management
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## `⟨ CONNECTION :: GITHUB PROFILE ⟩`
+# `⟨ PROJECT PIPELINE :: BUILD STATUS ⟩`
+
+```text
+PROJECT PIPELINE
+
+[████████████████████]  open.mp Systems
+[████████████████░░░░]  FiveM Development
+[██████████████░░░░░░]  Backend Systems
+[████████████░░░░░░░░]  Web Development
+[██████████░░░░░░░░░░]  Android Development
+[███████░░░░░░░░░░░░░]  Open World Game
+```
+
+---
+
+# `⟨ CONTACT :: DEVELOPMENT CONNECTION ⟩`
 
 <div align="center">
 
-### `RAVS-DEV // DEVELOPMENT NODE ONLINE`
+## Need a Developer?
 
-<a href="https://github.com/Ravs-Dev">
-<img src="https://img.shields.io/badge/GitHub-Ravs--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ravs-Dev GitHub"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Ravs-Dev&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CODE+IN+PROGRESS+%5D;%5B+BUILDING+THE+FUTURE+%5D" alt="System Status"/>
+### `Backend • Game Server • FiveM • open.mp • Web • Android`
 
 <br>
 
-`[ SYSTEM ONLINE ] • [ CODE IN PROGRESS ] • [ BUILDING THE FUTURE ]`
+<a href="https://github.com/Ravs-Dev">
+<img src="https://img.shields.io/badge/GITHUB-RAVS--DEV-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20DEVELOPMENT-22C55E?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2300&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%5D;%5B+GAME+SYSTEMS+READY+%5D;%5B+BACKEND+READY+%5D;%5B+BUILDING+THE+FUTURE+%5D" />
+
+<br>
+
+`[ RAVS DEV ] • [ DEVELOPMENT NODE ONLINE ]`
+
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • IMPROVE • REPEAT`
+
+**© RAVS DEV**
 
 </div>
