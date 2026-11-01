@@ -302,7 +302,7 @@ RAVS@github:~$ status
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravs-Dev&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Ravs Dev contribution graph"/>
+<a href="https://github.com/Ravs-Dev"><img src="https://raw.githubusercontent.com/Ravs-Dev/Ravs/main/assets/contribution-graph.svg" width="100%" alt="Ravs-Dev GitHub contribution graph"/></a>
 
 </div>
 
